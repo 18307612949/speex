@@ -1,0 +1,2 @@
+!WARNING: Source file 'rts6400.lib' has been linked into the project relative to variable 'CG_TOOL_ROOT'.  It is recommended, however, that you avoid linking resources from the build-tool directory - consider using build-options to reference include-files and libraries.
+
